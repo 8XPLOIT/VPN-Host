@@ -36,7 +36,7 @@
 176.32.96.0     local
 255.255.255.255 broadcasthost
 
-176.32.96.0     hg.acc.qq.com,
+176.32.96.0     hg.acc.qq.com, 
 176.32.96.0     commdata.v.qq.com, 
 176.32.96.0     wetvws.tv.qq.com, 
 176.32.96.0     acc.wetvinfo.com, 
